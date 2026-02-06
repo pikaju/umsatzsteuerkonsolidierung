@@ -64,3 +64,8 @@ A Nix flake is provided for reproducible development environments:
 ```bash
 nix develop        # Enter development shell with yarn-berry
 ```
+
+## Rules
+
+* Do not bother with design. We are raw-dogging HTML components here without CSS. This is a tool for practical utility.
+* All localized text must be in German. This is a German software for German Umsatzsteuerkonsolidierung and Umsatzsteuervoranmeldung.
